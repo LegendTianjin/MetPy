@@ -1,5 +1,9 @@
 :orphan:
 
+
+
+.. _sphx_glr_examples:
+
 .. _examples-index:
 
 Examples
@@ -158,6 +162,10 @@ Examples of using a variety of MetPy's functionality together.
 
     <div style='clear:both'></div>
 
+
+
+.. _sphx_glr_examples_calculations:
+
 .. _calc_examples:
 
 Calculations
@@ -230,6 +238,10 @@ Examples using various calculation functions from MetPy.
 
     <div style='clear:both'></div>
 
+
+
+.. _sphx_glr_examples_formats:
+
 .. _formats_examples:
 
 File Formats
@@ -301,6 +313,10 @@ Examples using MetPy's support for reading various file formats.
 .. raw:: html
 
     <div style='clear:both'></div>
+
+
+
+.. _sphx_glr_examples_gridding:
 
 .. _gridding_examples:
 
@@ -413,6 +429,10 @@ Examples generating a grid of data from scattered point observations.
 .. raw:: html
 
     <div style='clear:both'></div>
+
+
+
+.. _sphx_glr_examples_plots:
 
 .. _plotting_examples:
 

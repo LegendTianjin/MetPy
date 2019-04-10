@@ -1,0 +1,12 @@
+
+:orphan:
+
+.. _sphx_glr_tutorials_sg_execution_times:
+
+Computation times
+=================
+**00:22.500** total execution time for **tutorials** files:
+
+- **00:20.024**: :ref:`sphx_glr_tutorials_xarray_tutorial.py` (``xarray_tutorial.py``)
+- **00:02.389**: :ref:`sphx_glr_tutorials_upperair_soundings.py` (``upperair_soundings.py``)
+- **00:00.087**: :ref:`sphx_glr_tutorials_unit_tutorial.py` (``unit_tutorial.py``)
